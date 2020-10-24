@@ -1,0 +1,29 @@
+
+body {
+    font-weight: 300;
+    color: #000;
+    background-color: #f4ede5;
+}
+
+.navbar,.nav {
+    background: url('../img/wood.jpeg');
+}
+.nav-link {
+    font-family: 'Rye';
+    color:whitesmoke
+}
+.nav-item > a:hover {
+    color:brown;
+}
+.card{
+    margin:5px;
+}
+img{
+    vertical-align:bottom;
+}
+.nav-link:hover{
+    color:brown
+}
+.navbar-toggler-icon{
+    color:whitesmoke
+}
